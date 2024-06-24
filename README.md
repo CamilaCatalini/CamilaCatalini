@@ -36,7 +36,7 @@
 <h3 align="center" > Conéctate conmigo </h3>
 <p align="center">
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/melencinas/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/camila-catalini/">
           <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
         </a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kamii_ctln/">
