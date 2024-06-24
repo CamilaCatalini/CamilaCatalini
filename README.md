@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi, Soy Camila pero me dicen Kamii 🖤</h1> 
+<img width="200" align="right" src="https://media.tenor.com/8mWSxAzIAnkAAAAi/tkthao219-bubududu.gif"></img>
+</h2>
+<p>
+  
+  Actualmente me encuentro estudiando sistemas en la facultad de informatica de la UNLP.
 
-<!--
-**CamilaCatalini/CamilaCatalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Me gusta mucho la programacion web, especificamente el front... aunqueee ya le estoy 
+  
+  tomando cariño al back.
 
-Here are some ideas to get you started:
+  En mis tiempos libres me dedico a jugar TFT y ver animu. Enamorada de Kaiju No. 8
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center">Tecnologias que manejo</h2>
+<img width="200" align="left" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif">
+
+
+<p align="center" style="padding-top: 50%;">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=angular,bootstrap,firebase,css,github,html,js,mongodb,mysql,nodejs,vscode=14" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center">Github stats :bar_chart:</h2>
+<div> 
+ <h4 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilaCatalini&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></h4> 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h3 align="center" > Conéctate conmigo </h3>
+<p align="center">
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/melencinas/">
+          <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kamii_ctln/">
+			    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+        </a>
+</div>
+</p>
+<h3 align="center" > Bye! 🖤</h3>
+<p  align="center" >
+  <img align="center" src="https://media.tenor.com/TlCA8GijQY0AAAAi/bubu-bubu-dudu.gif" height="200px" width="200px"><br><br>
+</p>
+
