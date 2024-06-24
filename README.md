@@ -17,7 +17,7 @@
 <h2 align="center">Tecnologias que manejo</h2>
 <img width="100" height="100" align="left" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif">
 
-<p>
+<p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,firebase,css,github,html,js,mongodb,mysql,nodejs,vscode=14" />
   </a>
