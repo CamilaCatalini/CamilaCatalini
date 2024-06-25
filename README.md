@@ -15,11 +15,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">Tecnologias que manejo</h2>
-<img width="100" height="100" align="left" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif">
 
 <p align="center" >
+  <img width="120" height="120" align="left" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,firebase,css,github,html,js,mongodb,mysql,nodejs,vscode=14" />
+    <img height="120" width="700" src="https://skillicons.dev/icons?i=angular,bootstrap,firebase,css,github,html,js,mongodb,mysql,nodejs,vscode=14" />
   </a>
 </p>
 
